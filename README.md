@@ -2,7 +2,7 @@
 
 # daMarxrider
 
-**gods strongest schizo** · Anonymous · No.13371337
+**gods strongest schizo**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
