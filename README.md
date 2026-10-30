@@ -44,7 +44,7 @@
 
 | Project | Status |
 |---|---|
-| [**trading_bot_3**](https://github.com/daMarxrider/trading_bot_3): trading bot, mk. III. Wants to become a stock-analysis tool when it grows up. Lineage: [mk. I](https://github.com/daMarxrider/coinbase-pro-trader) (archived, rest in pepperoni) → mk. II (closed-source; proprietary alpha, not leaking it, anon) → this | 4th iteration pending |
+| [**trading_bot_3**](https://github.com/daMarxrider/trading_bot_3): trading bot, mk. III. Wants to become a stock-analysis tool when it grows up, and long-term roadmap is to mog TradingView. Trust the plan. Lineage: [mk. I](https://github.com/daMarxrider/coinbase-pro-trader) (archived, rest in pepperoni) → mk. II (closed-source; proprietary alpha, not leaking it, anon) → this | 4th iteration pending |
 | [**wfcalc**](https://github.com/daMarxrider/wfcalc): WARFRAME damage calculator with builds, mods, rivens, Incarnon, web UI + JSON API | we're so back |
 | [**web3-beefy-auto-withdraw**](https://github.com/daMarxrider/web3-beefy-auto-withdraw): pulls funds out of Beefy vaults when the multisig schedules a call. Trust nobody | ngmi without it |
 | [**caelestia_user_configs**](https://github.com/daMarxrider/caelestia_user_configs): my rice. Post your desktop thread material | comfy |
