@@ -50,19 +50,6 @@
 | [**caelestia_user_configs**](https://github.com/daMarxrider/caelestia_user_configs): my rice. Post your desktop thread material | comfy |
 | [**coinbase-pro-trader**](https://github.com/daMarxrider/coinbase-pro-trader): the ancestor. Has 2 stars, peak of my career | archived in my heart |
 
-## /sci/ - Science & Math
-
-```
-1 + 2 + 3 + 4 + ... = -1/12
-bot iterations       = 3
-profitable ones      = 3
-times I said "this is the final rewrite" = ∞
-```
-
-> \>implying the market is a random walk
->
-> it's a random walk **with a drunk guy pushing you**
-
 ## Stats
 
 <div align="center">
