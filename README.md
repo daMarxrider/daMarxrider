@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="src/templeos.png" width="260px" alt="TempleOS">
-
 # daMarxrider
 
 **gods strongest schizo** · Anonymous · No.13371337
@@ -37,8 +35,6 @@
 - vscode:   never heard of it
 - windows:  not on my machine
 ```
-
-<img align="right" src="src/templeos_screen.png" width="280px" alt="TempleOS desktop">
 
 > \>he still uses a mouse
 >
@@ -82,7 +78,5 @@ times I said "this is the final rewrite" = ∞
 <div align="center">
 
 <sub>sage goes in all fields · install gentoo · this README was written in neovim (probably)</sub>
-<br>
-<sub>TempleOS images by Terry A. Davis, public domain, via Wikimedia Commons</sub>
 
 </div>
