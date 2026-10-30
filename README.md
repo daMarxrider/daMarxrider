@@ -40,9 +40,9 @@
 >
 > ngmi
 
-## Current threads
+## Current projects
 
-| Thread | Status |
+| Project | Status |
 |---|---|
 | [**trading_bot_3**](https://github.com/daMarxrider/trading_bot_3): trading bot, mk. III. Wants to become a stock-analysis tool when it grows up | 4th iteration pending |
 | [**wfcalc**](https://github.com/daMarxrider/wfcalc): WARFRAME damage calculator with builds, mods, rivens, Incarnon, web UI + JSON API | we're so back |
