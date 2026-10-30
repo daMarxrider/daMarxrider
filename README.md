@@ -67,8 +67,7 @@ times I said "this is the final rewrite" = ∞
 
 <div align="center">
 
-![stats](https://github-readme-stats.vercel.app/api?username=daMarxrider&show_icons=true&theme=tokyonight&hide_border=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daMarxrider&layout=compact&theme=tokyonight&hide_border=true)
+![streak](https://streak-stats.demolab.com?user=daMarxrider&theme=tokyonight&hide_border=true)
 
 </div>
 
