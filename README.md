@@ -26,20 +26,6 @@
 >mfw the 4th iteration is already inevitable
 ```
 
-## /g/ - Technology
-
-```diff
-+ editor:   neovim
-+ desktop:  hyprland + caelestia shell, riced in lua
-+ os:       arch, btw
-- vscode:   never heard of it
-- windows:  not on my machine
-```
-
-> \>he still uses a mouse
->
-> ngmi
-
 ## Current projects
 
 | Project | Status |
