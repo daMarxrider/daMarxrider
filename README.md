@@ -29,7 +29,7 @@
 ## /g/ - Technology
 
 ```diff
-+ editor:   neovim (config is public, judge me)
++ editor:   neovim
 + desktop:  hyprland + caelestia shell, riced in lua
 + os:       arch, btw
 - vscode:   never heard of it
@@ -42,14 +42,13 @@
 
 ## Current threads
 
-| Thread | Board | Status |
-|---|---|---|
-| [**trading_bot_3**](https://github.com/daMarxrider/trading_bot_3): trading bot, mk. III. Wants to become a stock-analysis tool when it grows up | /biz/ | 4th iteration pending |
-| [**wfcalc**](https://github.com/daMarxrider/wfcalc): WARFRAME damage calculator with builds, mods, rivens, Incarnon, web UI + JSON API | /vg/ | we're so back |
-| [**web3-beefy-auto-withdraw**](https://github.com/daMarxrider/web3-beefy-auto-withdraw): pulls funds out of Beefy vaults when the multisig schedules a call. Trust nobody | /biz/ | ngmi without it |
-| [**caelestia_user_configs**](https://github.com/daMarxrider/caelestia_user_configs): my rice. Post your desktop thread material | /g/ | comfy |
-| [**nvim_config**](https://github.com/daMarxrider/nvim_config): text editor that is also my personality | /g/ | perpetually WIP |
-| [**coinbase-pro-trader**](https://github.com/daMarxrider/coinbase-pro-trader): the ancestor. Has 2 stars, peak of my career | /biz/ | archived in my heart |
+| Thread | Status |
+|---|---|
+| [**trading_bot_3**](https://github.com/daMarxrider/trading_bot_3): trading bot, mk. III. Wants to become a stock-analysis tool when it grows up | 4th iteration pending |
+| [**wfcalc**](https://github.com/daMarxrider/wfcalc): WARFRAME damage calculator with builds, mods, rivens, Incarnon, web UI + JSON API | we're so back |
+| [**web3-beefy-auto-withdraw**](https://github.com/daMarxrider/web3-beefy-auto-withdraw): pulls funds out of Beefy vaults when the multisig schedules a call. Trust nobody | ngmi without it |
+| [**caelestia_user_configs**](https://github.com/daMarxrider/caelestia_user_configs): my rice. Post your desktop thread material | comfy |
+| [**coinbase-pro-trader**](https://github.com/daMarxrider/coinbase-pro-trader): the ancestor. Has 2 stars, peak of my career | archived in my heart |
 
 ## /sci/ - Science & Math
 
