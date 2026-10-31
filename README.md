@@ -2,7 +2,7 @@
 
 # daMarxrider
 
-**Python · TypeScript · Linux. I build tools for trading, data analysis and games.**
+**Python · TypeScript · Linux ( Qt3/4/6 · C++98/14/17 but only at work ). I build tools for trading, data analysis and games.**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
