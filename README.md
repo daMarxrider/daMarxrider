@@ -11,6 +11,8 @@
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Arch](https://img.shields.io/badge/btw-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=daMarxrider&date_format=j%20M%5B%20Y%5D&background=45%2C0A0014%2C1B0638&border=00F0FF&stroke=FF2A6D&ring=00F0FF&fire=FF2A6D&currStreakNum=00F0FF&sideNums=FF2A6D&currStreakLabel=FCEE0A&sideLabels=D1F7FF&dates=8A6FBF&excludeDaysLabel=8A6FBF&border_radius=4&exclude_days=Sun)](https://git.io/streak-stats)
+
 </div>
 
 ---
